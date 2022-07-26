@@ -1,7 +1,7 @@
 # OCFSP
 One-class classification approach using feature-slide prediction subtask <br>
 <br>
-Under the review
+Accepted by Soft Computing
 
 Preprint<br>
 https://www.researchsquare.com/article/rs-1212211/v1
